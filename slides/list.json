@@ -7,9 +7,9 @@
     ],
     [
         "structure/index.md",
-        "arrays.md",
-        "objects.md",
-        "prototypes.md"
+        "structure/arrays.md",
+        "structure/objects.md",
+        "structure/prototypes.md"
     ],
     "this.md",
     "scoping.md",

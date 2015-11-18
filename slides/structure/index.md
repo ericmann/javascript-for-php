@@ -1,7 +1,6 @@
-##  Structure
+##  What Does JavaScript Look Like
 
-This is a new Markdown slide
+**Hint:** It looks a _lot_ like PHP ... 
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+    If you're already solid with PHP, JS won't look too unfamiliar. We still have curly brackets, functions, switches, if/then conditionals ...
