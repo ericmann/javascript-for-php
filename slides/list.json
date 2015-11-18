@@ -1,1 +1,26 @@
-["index.md"]
+[
+    "index.md",
+    [
+        "why-does-js-matter.md",
+        "what-js-is.md",
+        "what-js-isn-t.md"
+    ],
+    [
+        "structure/index.md",
+        "arrays.md",
+        "objects.md",
+        "prototypes.md"
+    ],
+    "this.md",
+    "scoping.md",
+    "closures.md",
+    "references.md",
+    "embedded-javascript.md",
+    [
+        "async/index.md",
+        "async/parallelization.md"
+    ],
+	"why-does-js-matter.md",
+    "questions.md",
+    "closing.md"
+]
