@@ -1,7 +1,6 @@
-##  What JS Isn&#39;t
+##  What JavaScript _Isn't_
 
-This is a new Markdown slide
+<p class="fragment">A buzzword</p>
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+    While JS might be many things, the one thing it's _not_ is a buzzword. If you aren't paying attention to what's happening with JS, you're putting yourself at a serious disadvantage.
