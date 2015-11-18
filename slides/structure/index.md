@@ -1,0 +1,6 @@
+##  What Does JavaScript Look Like
+
+**Hint:** It looks a _lot_ like PHP ... 
+
+note:
+    If you're already solid with PHP, JS won't look too unfamiliar. We still have curly brackets, functions, switches, if/then conditionals ...
