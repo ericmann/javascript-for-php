@@ -1,7 +1,6 @@
 ##  Parallelization
 
-This is a new Markdown slide
+<img src="resources/web_worker.png" />
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+    Web workers allow you to split your JavaScript application into multiple processes and leverage parallel thread processing (multiple cores).

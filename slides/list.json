@@ -7,9 +7,13 @@
     ],
     [
         "structure/index.md",
+	    "structure/php-arrays.md",
         "structure/arrays.md",
         "structure/objects.md",
-        "structure/prototypes.md"
+	    "structure/objects-literal.md",
+	    "structure/objects-constructor.md",
+        "structure/prototypes.md",
+	    "structure/gotchas.md"
     ],
     "this.md",
     "scoping.md",
@@ -18,6 +22,7 @@
     "embedded-javascript.md",
     [
         "async/index.md",
+	    "async/promises.md",
         "async/parallelization.md"
     ],
 	"why-does-js-matter.md",

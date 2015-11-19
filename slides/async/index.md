@@ -1,7 +1,6 @@
 ##  Async
 
-This is a new Markdown slide
+JavaScript powers long-running processes
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+    Anything you can defer you should defer.

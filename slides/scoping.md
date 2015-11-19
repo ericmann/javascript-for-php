@@ -1,7 +1,21 @@
 ##  Scoping
 
-This is a new Markdown slide
+<pre><code lang="js">function definer() {
+    myVal = 5;
+    window.otherVal = 10;
+    
+    var privateVal = 20;
+}
+
+console.log( myVal );      // ERROR
+console.log( otherVal );   // ERROR
+console.log( privateVal ); // ERROR
+
+definer();
+
+console.log( myVal );      // 5
+console.log( otherVal );   // 10
+console.log( privateVal ); // ERROR</code></pre>
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+    Variables defined inside a function (or object constructor) are private only to that context. Anything without the `var` keyword, though, can accidentally be added to the global scope!
