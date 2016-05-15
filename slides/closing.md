@@ -1,7 +1,8 @@
 ##  Closing
 
-- Eric Mann - Lead Web Engineer at [10up](http://10up.com)
+- Eric Mann - [Tekton](https://en.wikipedia.org/wiki/Tekt%C5%8Dn) with [Tozny](https://tozny.com)
 - [@ericmann](https://twitter.com/ericmann)
+- [https://ttmm.io](https://ttmm.io)
 - [https://eamann.com](https://eamann.com)
 
 note:

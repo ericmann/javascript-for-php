@@ -11,4 +11,4 @@ console.log( firstArray );
 // ['Element', 'Another']</code></pre>
 
 note:
-    In PHP, you have to specify whether variables are being used by value or by reference. In JavaScript, references are the default.
+    In PHP, you often have to specify whether variables are being used by value or by reference. In JavaScript, references are the default.

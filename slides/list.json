@@ -12,18 +12,24 @@
         "structure/objects.md",
 	    "structure/objects-literal.md",
 	    "structure/objects-constructor.md",
-        "structure/prototypes.md",
+	    "structure/prototypes.md",
+	    "structure/objects-es6.md",
 	    "structure/gotchas.md"
     ],
     "this.md",
-    "scoping.md",
+	[
+		"scoping.md",
+		"scoping-es6.md"
+	],
     "closures.md",
     "references.md",
     "embedded-javascript.md",
     [
         "async/index.md",
 	    "async/promises.md",
-        "async/parallelization.md"
+        "async/parallelization.md",
+	    "async/yield.md",
+	    "async/yield-js.md"
     ],
 	"why-does-js-matter.md",
     "questions.md",
