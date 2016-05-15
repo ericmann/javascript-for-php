@@ -12,7 +12,8 @@
         "structure/objects.md",
 	    "structure/objects-literal.md",
 	    "structure/objects-constructor.md",
-        "structure/prototypes.md",
+	    "structure/prototypes.md",
+	    "structure/objects-es6.md",
 	    "structure/gotchas.md"
     ],
     "this.md",
