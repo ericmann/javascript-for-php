@@ -24,7 +24,9 @@
     [
         "async/index.md",
 	    "async/promises.md",
-        "async/parallelization.md"
+        "async/parallelization.md",
+	    "async/yield.md",
+	    "async/yield-js.md"
     ],
 	"why-does-js-matter.md",
     "questions.md",
